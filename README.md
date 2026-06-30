@@ -34,19 +34,6 @@ not just how many bills they submit but how far those bills progress.
 
 ---
 
-Repository structure
-
-knesset25-les/
-+-- data/
-|   +-- processed/
-|       +-- knesset25_les_public.csv
-|       +-- knesset25_les_full.csv
-+-- calculate_les_k25.py
-+-- CODEBOOK.md
-+-- README.md
-
----
-
 Updating the data
 
 Knesset 25 is still active. To refresh the scores, run calculate_les_k25.py

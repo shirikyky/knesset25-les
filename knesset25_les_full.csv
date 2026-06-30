@@ -1,0 +1,149 @@
+﻿PersonID,FirstName,LastName,FullName,FirstName_English,LastName_English,FullName_English,GenderID,GenderDesc,Gender,FactionName,FactionName_English,FactionID,Email,IsCurrent,LES,Bills_Initiated,Bills_Failed,Bills_Introduced,Bills_FirstReading,Bills_SecondReading,Bills_ThirdReading_Prep,Bills_Passed
+30722,יבגני,סובה,יבגני סובה,Evgeny,Sova,Evgeny Sova,251,זכר,Male,ישראל ביתנו,Yisrael Beiteinu,1104,esova@knesset.gov.il,True,433,388,87,257,12,1,6,25
+560,אחמד,טיבי,אחמד טיבי,Ahmad,Tibi,Ahmad Tibi,251,זכר,Male,"חד""ש-תע""ל",Hadash-Taal,1103,atibi@knesset.gov.il,True,428,391,32,335,7,1,4,12
+30863,שרון,ניר,שרון ניר,Sharon,Nir,Sharon Nir,250,נקבה,Female,ישראל ביתנו,Yisrael Beiteinu,1104,shnir@knesset.gov.il,True,427,396,96,254,16,2,5,23
+30601,ינון,אזולאי,ינון אזולאי,Yinon,Azulai,Yinon Azulai,251,זכר,Male,"ש""ס",Shas,1095,yazulai@knesset.gov.il,True,423,267,14,194,18,2,8,31
+30867,יצחק,קרויזר,יצחק קרויזר,Yitzhak,Kroizer,Yitzhak Kroizer,251,זכר,Male,עוצמה יהודית,Otzma Yehudit,1106,ykroyer@knesset.gov.ik,True,419,291,31,192,34,4,3,27
+23641,יעקב,אשר,יעקב אשר,Yaakov,Asher,Yaakov Asher,251,זכר,Male,יהדות התורה,United Torah Judaism,1101,yakova@knesset.gov.il,True,418,290,5,237,18,1,3,26
+23560,יוליה,מלינובסקי,יוליה מלינובסקי,Yulia,Malinovsky,Yulia Malinovsky,250,נקבה,Female,ישראל ביתנו,Yisrael Beiteinu,1104,ymalinovsky@knesset.gov.il,True,417,377,87,247,13,1,4,25
+30840,ואליד,אלהואשלה,ואליד אלהואשלה,Walid,Alhawashla,Walid Alhawashla,251,זכר,Male,"רע""ם",Raam,1099,waleed.alh@knesset.gov.il,True,412,399,29,354,6,1,2,7
+30121,עודד,פורר,עודד פורר,Oded,Forer,Oded Forer,251,זכר,Male,ישראל ביתנו,Yisrael Beiteinu,1104,odedfo@knesset.gov.il,True,409,355,84,222,16,2,6,25
+526,משה,גפני,משה גפני,Moshe,Gafni,Moshe Gafni,251,זכר,Male,יהדות התורה,United Torah Judaism,1101,mgafni@knesset.gov.il,True,394,279,4,233,15,1,2,24
+30839,דן,אילוז,דן אילוז,Dan,Illouz,Dan Illouz,251,זכר,Male,הליכוד,Likud,1096,hak_diluz@knesset.gov.il,True,371,266,17,193,31,1,7,17
+30106,נעמה,לזימי,נעמה לזימי,Naama,Lazimi,Naama Lazimi,250,נקבה,Female,העבודה,Labor,1100,naamalazimi@knesset.gov.il,True,356,329,56,248,4,1,3,17
+30102,מירב,בן ארי,מירב בן ארי,Merav,Ben-Ari,Merav Ben-Ari,250,נקבה,Female,יש עתיד,Yesh Atid,1102,bmerav@knesset.gov.il,True,353,281,41,200,14,2,1,23
+30868,יונתן,מישרקי,יונתן מישרקי,Yonatan,Mishraki,Yonatan Mishraki,251,זכר,Male,"ש""ס",Shas,1095,hak_jmishraki@knesset.gov.il,True,342,219,11,159,18,2,4,25
+12938,חמד,עמאר,חמד עמאר,Hamad,Amar,Hamad Amar,251,זכר,Male,ישראל ביתנו,Yisrael Beiteinu,1104,amarh@knesset.gov.il,True,340,307,77,191,13,1,5,20
+30849,לימור,סון הר מלך,לימור סון הר מלך,Limor,Son Har-Melech,Limor Son Har-Melech,250,נקבה,Female,עוצמה יהודית,Otzma Yehudit,1097,lsun.har@knesset.gov.il,True,337,219,21,145,20,5,3,25
+30702,חוה אתי,עטייה,חוה אתי עטייה,Hava Etti,Atia,Hava Etti Atia,250,נקבה,Female,הליכוד,Likud,1096,hatia@knesset.gov.il,True,335,260,17,206,15,2,7,13
+30859,צביקה,פוגל,צביקה פוגל,Tzvika,Fogel,Tzvika Fogel,251,זכר,Male,עוצמה יהודית,Otzma Yehudit,1097,tzfoghel@knesset.gov.il,True,332,208,14,133,33,2,3,23
+30758,אימאן,ח'טיב יאסין,אימאן ח'טיב יאסין,Iman,Khatib-Yasin,Iman Khatib-Yasin,250,נקבה,Female,"רע""ם",Raam,1099,ayasin@knesset.gov.il,True,330,320,40,261,7,1,3,8
+30682,מיכאל מרדכי,ביטון,מיכאל מרדכי ביטון,Michael,Biton,Michael Biton,251,זכר,Male,המחנה הממלכתי,National Unity,1098,mbiton@knesset.gov.il,True,328,275,48,190,13,3,2,19
+30772,ניסים,ואטורי,ניסים ואטורי,Nissim,Vaturi,Nissim Vaturi,251,זכר,Male,הליכוד,Likud,1096,nvaturi@knesset.gov.il,True,326,206,20,129,27,1,5,24
+30701,אופיר,כץ,אופיר כץ,Ofir,Katz,Ofir Katz,251,זכר,Male,הליכוד,Likud,1096,okatz@knesset.gov.il,True,317,158,11,90,17,1,5,34
+427,אביגדור,ליברמן,אביגדור ליברמן,Avigdor,Lieberman,Avigdor Lieberman,251,זכר,Male,ישראל ביתנו,Yisrael Beiteinu,1104,aliberman@knesset.gov.il,True,316,299,78,188,10,1,5,17
+30780,רון,כץ,רון כץ,Ron,Katz,Ron Katz,251,זכר,Male,יש עתיד,Yesh Atid,1102,rkatz@knesset.gov.il,True,297,274,53,196,8,0,0,17
+30831,אלי,דלל,אלי דלל,Eli,Dalal,Eli Dalal,251,זכר,Male,הליכוד,Likud,1096,edalal@knesset.gov.il,True,295,181,22,109,17,4,5,24
+30770,יוסף,טייב,יוסף טייב,Yosef,Tayeb,Yosef Tayeb,251,זכר,Male,"ש""ס",Shas,1095,jtaieb@knesset.gov.il,True,294,190,14,135,13,1,5,22
+30842,חנוך דב,מלביצקי,חנוך דב מלביצקי,Hanoch Dov,Malbitzky,Hanoch Dov Malbitzky,251,זכר,Male,הליכוד,Likud,1096,chmelavitzky@knesset.gov.il,True,278,176,7,127,18,0,5,19
+30706,קטי קטרין,שטרית,קטי קטרין שטרית,Keti,Sheetrit,Keti Sheetrit,250,נקבה,Female,הליכוד,Likud,1096,kshitrit@knesset.gov.il,True,274,199,21,142,14,1,4,17
+23565,מרב,מיכאלי,מרב מיכאלי,Merav,Michaeli,Merav Michaeli,250,נקבה,Female,העבודה,Labor,1100,michaelim@knesset.gov.il,True,270,274,30,235,3,0,1,5
+30067,עאידה,תומא סלימאן,עאידה תומא סלימאן,Aida,Touma-Sliman,Aida Touma-Sliman,250,נקבה,Female,"חד""ש-תע""ל",Hadash-Taal,1103,aidat@knesset.gov.il,True,269,271,25,238,2,1,1,4
+30830,אוהד,טל,אוהד טל,Ohad,Tal,Ohad Tal,251,זכר,Male,הציונות הדתית,Religious Zionism,1097,ohtal@knesset.gov.il,True,264,174,17,104,33,1,4,15
+30877,משה,פסל,משה פסל,Moshe,Passal,Moshe Passal,251,זכר,Male,הליכוד,Likud,1096,hak_passal@knesset.gov.il,True,264,173,14,108,32,0,3,16
+30812,שמחה,רוטמן,שמחה רוטמן,Simcha,Rothman,Simcha Rothman,251,זכר,Male,הציונות הדתית,Religious Zionism,1097,srothman@knesset.gov.il,True,252,139,9,81,22,2,4,21
+30710,אריאל,קלנר,אריאל קלנר,Ariel,Kellner,Ariel Kellner,251,זכר,Male,הליכוד,Likud,1096,kallner@knesset.gov.il,True,250,145,9,89,22,2,4,19
+30852,משה,סולומון,משה סולומון,Moshe,Solomon,Moshe Solomon,251,זכר,Male,הציונות הדתית,Religious Zionism,1097,mosolomon@knesset.gov.il,True,244,156,11,97,29,2,2,15
+30713,מנסור,עבאס,מנסור עבאס,Mansour,Abbas,Mansour Abbas,251,זכר,Male,"רע""ם",Raam,1099,mabas@knesset.gov.il,True,233,219,27,178,4,0,3,7
+30752,ווליד,טאהא,ווליד טאהא,Waleed,Taha,Waleed Taha,251,זכר,Male,"רע""ם",Raam,1099,hak_taha@knesset.gov.il,True,225,220,28,180,4,0,3,5
+30853,משה,סעדה,משה סעדה,Moshe,Saada,Moshe Saada,251,זכר,Male,הליכוד,Likud,1096,mosaada@knesset.gov.il,True,224,129,11,68,29,1,5,15
+30810,מיכל מרים,וולדיגר,מיכל מרים וולדיגר,Michal,Waldiger,Michal Waldiger,250,נקבה,Female,הציונות הדתית,Religious Zionism,1097,michalwoldiger@knesset.gov.il,True,224,149,15,92,24,2,2,14
+30832,אליהו,רביבו,אליהו רביבו,Eliyahu,Revivo,Eliyahu Revivo,251,זכר,Male,הליכוד,Likud,1096,erevivo@knesset.gov.il,True,223,155,16,105,14,2,6,12
+23635,פנינה,תמנו,פנינה תמנו,Pnina,Tamano-Shata,Pnina Tamano-Shata,250,נקבה,Female,המחנה הממלכתי,National Unity,1098,ptamano@knesset.gov.il,True,221,157,34,86,15,1,3,18
+30694,אלון,שוסטר,אלון שוסטר,Alon,Schuster,Alon Schuster,251,זכר,Male,המחנה הממלכתי,National Unity,1098,aschuster@knesset.gov.il,True,215,194,41,130,9,1,1,12
+30783,יסמין,פרידמן,יסמין פרידמן,Yasmin,Fridman,Yasmin Fridman,250,נקבה,Female,יש עתיד,Yesh Atid,1102,yfridman@knesset.gov.il,True,215,213,51,144,5,1,2,10
+30799,מישל,בוסקילה,מישל בוסקילה,Michel,Buskila,Michel Buskila,251,זכר,Male,הימין הממלכתי,New Hope,1108,mbuskila@knesset.gov.il,True,214,187,6,162,13,1,2,3
+30719,עופר,כסיף,עופר כסיף,Ofer,Cassif,Ofer Cassif,251,זכר,Male,"חד""ש-תע""ל",Hadash-Taal,1103,ocassif@knesset.gov.il,True,207,216,24,185,3,1,2,1
+30861,שלום,דנינו,שלום דנינו,Shalom,Danino,Shalom Danino,251,זכר,Male,הליכוד,Likud,1096,shdanino@knesset.gov.il,True,205,132,12,88,11,3,4,14
+30066,איימן,עודה,איימן עודה,Ayman,Odeh,Ayman Odeh,251,זכר,Male,"חד""ש-תע""ל",Hadash-Taal,1103,aymanod@knesset.gov.il,True,204,212,17,191,2,0,1,1
+30876,אושר,שקלים,אושר שקלים,Osher,Shekalim,Osher Shekalim,251,זכר,Male,הליכוד,Likud,1096,oshkalim@knesset.gov.il,True,202,122,7,81,14,2,3,15
+30851,מטי,צרפתי הרכבי,מטי צרפתי הרכבי,Matti,Tsarfati-Harkavi,Matti Tsarfati-Harkavi,250,נקבה,Female,יש עתיד,Yesh Atid,1102,mattisarfatti@knesset.gov.il,True,197,201,45,141,5,2,0,8
+30807,גלעד,קריב,גלעד קריב,Gilad,Kariv,Gilad Kariv,251,זכר,Male,העבודה,Labor,1100,gkariv@knesset.gov.il,True,192,199,49,137,3,0,1,9
+30854,נאור,שירי,נאור שירי,Naor,Shiri,Naor Shiri,251,זכר,Male,יש עתיד,Yesh Atid,1102,nshiri@knesset.gov.il,True,188,181,46,117,4,2,3,9
+30860,טלי,גוטליב,טלי גוטליב,Tali,Gottlieb,Tali Gottlieb,250,נקבה,Female,הליכוד,Likud,1096,tgotlib@knesset.gov.il,True,188,112,7,73,13,1,4,14
+30880,אביחי אברהם,בוארון,אביחי אברהם בוארון,Avichai,Buaron,Avichai Buaron,251,זכר,Male,הליכוד,Likud,1096,hak_boaron@knesset.gov.il,True,184,145,16,102,16,1,3,7
+30820,סימון,דוידסון,סימון דוידסון,Simon,Davidson,Simon Davidson,251,זכר,Male,יש עתיד,Yesh Atid,1102,hak_davidson@knesset.gov.il,True,175,169,46,106,3,3,1,10
+30879,ששון ששי,גואטה,ששון ששי גואטה,Sasson,Guetta,Sasson Guetta,251,זכר,Male,הליכוד,Likud,1096,hak_guetta@knesset.gov.il,True,175,105,10,67,8,2,4,14
+30835,בועז,ביסמוט,בועז ביסמוט,Boaz,Bismuth,Boaz Bismuth,251,זכר,Male,הליכוד,Likud,1096,bbismut@knesset.gov.il,True,174,100,11,59,10,1,3,16
+30720,יוראי,להב הרצנו,יוראי להב הרצנו,Yorai,Lahav Hertzano,Yorai Lahav Hertzano,251,זכר,Male,יש עתיד,Yesh Atid,1102,ylahav@knesset.gov.il,True,164,174,44,119,2,1,2,6
+30711,עמית,הלוי,עמית הלוי,Amit,Halevi,Amit Halevi,251,זכר,Male,הליכוד,Likud,1096,ahalevi@knesset.gov.il,True,164,100,8,63,13,1,3,12
+30875,צגה,מלקו,צגה מלקו,Tsega,Melaku,Tsega Melaku,250,נקבה,Female,הליכוד,Likud,1096,tmelaku@knesset.gov.il,True,163,99,11,60,9,3,4,12
+30782,טטיאנה,מזרסקי,טטיאנה מזרסקי,Tatiana,Mazarsky,Tatiana Mazarsky,250,נקבה,Female,יש עתיד,Yesh Atid,1102,tmazarsky@knesset.gov.il,True,162,165,43,109,2,2,2,7
+30776,ולדימיר,בליאק,ולדימיר בליאק,Vladimir,Beliak,Vladimir Beliak,251,זכר,Male,יש עתיד,Yesh Atid,1102,vbeliak@knesset.gov.il,True,159,165,48,103,3,1,3,7
+30686,מירב,כהן,מירב כהן,Merav,Cohen,Merav Cohen,250,נקבה,Female,יש עתיד,Yesh Atid,1102,mecohen@knesset.gov.il,True,158,150,41,95,1,2,0,11
+30777,משה,טור פז,משה טור פז,Moshe,Tur-Paz,Moshe Tur-Paz,251,זכר,Male,יש עתיד,Yesh Atid,1102,mturpaz@knesset.gov.il,True,157,171,59,86,19,1,0,6
+30837,דבי,ביטון,דבי ביטון,Debbie,Biton,Debbie Biton,250,נקבה,Female,יש עתיד,Yesh Atid,1102,dvbiton@knesset.gov.il,True,151,157,44,100,4,1,0,8
+30843,יאסר,חוג'יראת,יאסר חוג'יראת,Yasser,Hujirat,Yasser Hujirat,251,זכר,Male,"רע""ם",Raam,1099,yschogarat@knesset.gov.il,True,149,152,20,122,7,0,2,1
+23597,מאיר,כהן,מאיר כהן,Meir,Cohen,Meir Cohen,251,זכר,Male,יש עתיד,Yesh Atid,1102,cohenmeir@knesset.gov.il,True,146,139,43,78,6,1,2,9
+30871,שלי טל,מירון,שלי טל מירון,Shelly,Tal-Miron,Shelly Tal-Miron,250,נקבה,Female,יש עתיד,Yesh Atid,1102,hak_shellym@knesset.gov.il,True,143,141,32,98,2,2,0,7
+23558,דוד,ביטן,דוד ביטן,David,Bitan,David Bitan,251,זכר,Male,הליכוד,Likud,1096,dbitan@knesset.gov.il,True,142,82,13,46,4,2,3,14
+30808,אפרת,רייטן מרום,אפרת רייטן מרום,Efrat,Rayten-Marom,Efrat Rayten-Marom,250,נקבה,Female,העבודה,Labor,1100,eraiten@knesset.gov.il,True,133,130,45,71,1,1,3,9
+30691,רם,בן ברק,רם בן ברק,Ram,Ben-Barak,Ram Ben-Barak,251,זכר,Male,יש עתיד,Yesh Atid,1102,rbenbarak@knesset.gov.il,True,122,125,36,78,3,1,0,7
+30705,מיכל,שיר סגמן,מיכל שיר סגמן,Michal,Shir Segman,Michal Shir Segman,250,נקבה,Female,יש עתיד,Yesh Atid,1102,mshir@knesset.gov.il,True,121,134,36,88,5,1,0,4
+30480,אברהם,בצלאל,אברהם בצלאל,Avraham,Bezalel,Avraham Bezalel,251,זכר,Male,"ש""ס",Shas,1095,,False,109,85,63,0,0,0,1,21
+23631,קארין,אלהרר,קארין אלהרר,Karine,Elharrar,Karine Elharrar,250,נקבה,Female,יש עתיד,Yesh Atid,1102,kelharrar@knesset.gov.il,True,105,96,28,56,2,1,3,6
+30695,יואב,סגלוביץ',יואב סגלוביץ',Yoav,Segalovitz,Yoav Segalovitz,251,זכר,Male,יש עתיד,Yesh Atid,1102,yoavse@knesset.gov.il,True,97,118,46,65,0,1,1,5
+30873,ארז,מלול,ארז מלול,Erez,Malul,Erez Malul,251,זכר,Male,"ש""ס",Shas,1095,hak_malul@knesset.gov.il,True,96,88,67,2,0,0,1,18
+30685,אורית,פרקש הכהן,אורית פרקש הכהן,Orit,Farkash-Hacohen,Orit Farkash-Hacohen,250,נקבה,Female,המחנה הממלכתי,National Unity,1098,ofarkash@knesset.gov.il,True,95,80,15,44,18,0,0,3
+30672,יצחק,פינדרוס,יצחק פינדרוס,Yitzhak,Pindrus,Yitzhak Pindrus,251,זכר,Male,יהדות התורה,United Torah Judaism,1101,ypindrus@knesset.gov.il,True,94,46,19,10,0,0,1,16
+23591,אלעזר,שטרן,אלעזר שטרן,Elazar,Stern,Elazar Stern,251,זכר,Male,יש עתיד,Yesh Atid,1102,sterne@knesset.gov.il,True,88,85,24,53,1,1,0,6
+23632,מיקי,לוי,מיקי לוי,Mickey,Levy,Mickey Levy,251,זכר,Male,יש עתיד,Yesh Atid,1102,mickeylevy@knesset.gov.il,True,80,82,30,45,0,0,0,7
+30693,איתן,גינזבורג,איתן גינזבורג,Eitan,Ginzburg,Eitan Ginzburg,251,זכר,Male,המחנה הממלכתי,National Unity,1110,eginzburg@knesset.gov.il,True,76,71,7,59,2,0,2,1
+30809,גלית,דיסטל אטבריאן,גלית דיסטל אטבריאן,Galit,Distel-Atbaryan,Galit Distel-Atbaryan,250,נקבה,Female,הליכוד,Likud,1096,gdistal@knesset.gov.il,True,75,55,15,27,5,1,0,7
+30881,ירון,לוי,ירון לוי,Yaron,Levi,Yaron Levi,251,זכר,Male,יש עתיד,Yesh Atid,1102,yalevi@knesset.gov.il,True,68,67,20,40,1,2,0,4
+532,יולי יואל,אדלשטיין,יולי יואל אדלשטיין,Yuli Yoel,Edelstein,Yuli Yoel Edelstein,251,זכר,Male,הליכוד,Likud,1096,yedelstein@knesset.gov.il,True,65,27,4,10,2,1,2,8
+23594,יאיר,לפיד,יאיר לפיד,Yair,Lapid,Yair Lapid,251,זכר,Male,יש עתיד,Yesh Atid,1102,ylapid@knesset.gov.il,True,63,82,30,48,1,1,0,2
+1057,ישראל,אייכלר,ישראל אייכלר,Israel,Eichler,Israel Eichler,251,זכר,Male,יהדות התורה,United Torah Judaism,1101,ieichler@knesset.gov.il,True,62,34,21,0,0,1,1,11
+30874,צבי ידידיה,סוכות,צבי ידידיה סוכות,Tzvi Yedidia,Sukkot,Tzvi Yedidia Sukkot,251,זכר,Male,הציונות הדתית,Religious Zionism,1105,tzvisuccot@knesset.gov.il,True,62,65,32,25,1,0,0,7
+30768,אליהו,ברוכי,אליהו ברוכי,Eliyahu,Baruchi,Eliyahu Baruchi,251,זכר,Male,יהדות התורה,United Torah Judaism,1101,,False,59,30,18,0,0,0,1,11
+30870,משה,רוט,משה רוט,Moshe,Roth,Moshe Roth,251,זכר,Male,יהדות התורה,United Torah Judaism,1101,,False,49,32,22,0,0,0,1,9
+563,מאיר,פרוש,מאיר פרוש,Meir,Porush,Meir Porush,251,זכר,Male,יהדות התורה,United Torah Judaism,1101,mporush@knesset.gov.il,True,47,45,0,43,2,0,0,0
+30118,שרן מרים,השכל,שרן מרים השכל,Sharren,Haskel,Sharren Haskel,250,נקבה,Female,הימין הממלכתי,New Hope,1098,shaskel@knesset.gov.il,True,45,22,13,0,0,0,0,9
+4397,זאב,אלקין,זאב אלקין,Zeev,Elkin,Zeev Elkin,251,זכר,Male,הימין הממלכתי,New Hope,1098,zelkin@knesset.gov.il,True,45,16,7,0,0,0,0,9
+30683,חילי,טרופר,חילי טרופר,Hili,Tropper,Hili Tropper,251,זכר,Male,המחנה הממלכתי,National Unity,1098,ctropper@knesset.gov.il,True,45,37,10,21,2,0,0,4
+30872,סימון,מושיאשוילי,סימון מושיאשוילי,Simon,Moshiashvili,Simon Moshiashvili,251,זכר,Male,"ש""ס",Shas,1095,,False,44,13,4,0,0,0,1,8
+30833,אלמוג,כהן,אלמוג כהן,Almog,Cohen,Almog Cohen,251,זכר,Male,עוצמה יהודית,Otzma Yehudit,1097,almcohen@knesset.gov.il,True,40,43,35,0,0,0,0,8
+30662,מתן,כהנא,מתן כהנא,Matan,Kahana,Matan Kahana,251,זכר,Male,המחנה הממלכתי,National Unity,1098,,False,35,24,17,0,0,0,0,7
+23639,בועז,טופורובסקי,בועז טופורובסקי,Boaz,Toporovsky,Boaz Toporovsky,251,זכר,Male,יש עתיד,Yesh Atid,1102,,False,33,52,45,0,0,1,0,6
+30893,עפיף,עבד,עפיף עבד,Afif,Abed,Afif Abed,251,זכר,Male,הליכוד,Likud,1096,abbed@knesset.gov.il,True,31,23,0,21,0,0,0,2
+30721,עידן,רול,עידן רול,Idan,Roll,Idan Roll,251,זכר,Male,עצמאי,Independent,1102,,False,30,89,83,0,0,0,0,6
+12944,דני,דנון,דני דנון,Danny,Danon,Danny Danon,251,זכר,Male,הליכוד,Likud,1096,,False,29,14,8,0,0,0,1,5
+30814,אבי,מעוז,אבי מעוז,Avi,Maoz,Avi Maoz,251,זכר,Male,נעם,Noam,1097,amaaoz@knesset.gov.il,True,28,25,3,19,2,0,0,1
+30558,יוסף,עטאונה,יוסף עטאונה,Yousef,Atauna,Yousef Atauna,251,זכר,Male,"חד""ש-תע""ל",Hadash-Taal,1103,,False,25,83,78,0,0,0,0,5
+30765,אוריאל,בוסו,אוריאל בוסו,Uriel,Busso,Uriel Busso,251,זכר,Male,"ש""ס",Shas,1095,urielb@knesset.gov.il,True,20,28,19,6,0,0,1,2
+30775,יעל,רון בן משה,יעל רון בן משה,Yael,Ron Ben-Moshe,Yael Ron Ben-Moshe,250,נקבה,Female,המחנה הממלכתי,National Unity,1110,yaelron@knesset.gov.il,True,20,23,5,16,2,0,0,0
+30749,משה,אבוטבול,משה אבוטבול,Moshe,Abutbul,Moshe Abutbul,251,זכר,Male,"ש""ס",Shas,1095,mabutbul@knesset.gov.il,True,15,17,6,10,0,0,0,1
+30895,עדי,עזוז,עדי עזוז,Adi,Azuz,Adi Azuz,250,נקבה,Female,יש עתיד,Yesh Atid,1102,aezuz@knesset.gov.il,True,13,16,4,11,1,0,0,0
+30657,בנימין,גנץ,בנימין גנץ,Benny,Gantz,Benny Gantz,251,זכר,Male,המחנה הממלכתי,National Unity,1098,bgantz@knesset.gov.il,True,13,20,8,11,1,0,0,0
+30894,סמיר,בן סעיד,סמיר בן סעיד,Samir,Ben-Said,Samir Ben-Said,251,זכר,Male,"חד""ש-תע""ל",Hadash-Taal,1103,samirb@knesset.gov.il,True,12,13,1,12,0,0,0,0
+2291,אריה מכלוף,דרעי,אריה מכלוף דרעי,Aryeh,Deri,Aryeh Deri,251,זכר,Male,"ש""ס",Shas,1095,aderey@knesset.gov.il,True,11,5,1,2,0,0,1,1
+1056,יעקב,מרגי,יעקב מרגי,Yaakov,Margi,Yaakov Margi,251,זכר,Male,"ש""ס",Shas,1095,ymargi@knesset.gov.il,True,11,9,0,8,0,1,0,0
+30681,אורנה,ברביבאי,אורנה ברביבאי,Orna,Barbivai,Orna Barbivai,250,נקבה,Female,יש עתיד,Yesh Atid,1102,,False,10,10,8,0,0,0,0,2
+11835,אורי,מקלב,אורי מקלב,Uri,Maklev,Uri Maklev,251,זכר,Male,יהדות התורה,United Torah Judaism,1101,umaklev@knesset.gov.il,True,9,6,0,5,0,0,1,0
+22151,אכרם,חסון,אכרם חסון,Akram,Hasson,Akram Hasson,251,זכר,Male,הימין הממלכתי,New Hope,1108,akramh@knesset.gov.il,True,9,9,0,9,0,0,0,0
+30470,מיכאל,מלכיאלי,מיכאל מלכיאלי,Michael,Malchieli,Michael Malchieli,251,זכר,Male,"ש""ס",Shas,1095,malkielim@knesset.gov.il,True,6,6,0,6,0,0,0,0
+30300,אמיר,אוחנה,אמיר אוחנה,Amir,Ohana,Amir Ohana,251,זכר,Male,הליכוד,Likud,1096,amiro@knesset.gov.il,True,6,2,0,1,0,0,0,1
+30671,יעקב,טסלר,יעקב טסלר,Yaakov,Tessler,Yaakov Tessler,251,זכר,Male,יהדות התורה,United Torah Judaism,1101,ytesler@knesset.gov.il,True,6,6,0,6,0,0,0,0
+30660,משה,ארבל,משה ארבל,Moshe,Arbel,Moshe Arbel,251,זכר,Male,"ש""ס",Shas,1095,,False,5,3,2,0,0,0,0,1
+30836,גדי,איזנקוט,גדי איזנקוט,Gadi,Eisenkot,Gadi Eisenkot,251,זכר,Male,המחנה הממלכתי,National Unity,1098,,False,5,5,4,0,0,0,0,1
+30057,יואב,קיש,יואב קיש,Yoav,Kisch,Yoav Kisch,251,זכר,Male,הליכוד,Likud,1096,yoavk@knesset.gov.il,True,5,1,0,0,0,0,0,1
+30811,איתמר,בן גביר,איתמר בן גביר,Itamar,Ben-Gvir,Itamar Ben-Gvir,251,זכר,Male,עוצמה יהודית,Otzma Yehudit,1097,ibengvir@knesset.gov.il,True,5,2,1,0,0,0,0,1
+23564,דוד,אמסלם,דוד אמסלם,David,Amsalem,David Amsalem,251,זכר,Male,הליכוד,Likud,1096,davidam@knesset.gov.il,True,4,18,17,0,0,0,1,0
+28513,יואב,בן צור,יואב בן צור,Yoav,Ben-Tzur,Yoav Ben-Tzur,251,זכר,Male,"ש""ס",Shas,1095,ybentzur@knesset.gov.il,True,2,6,4,2,0,0,0,0
+30846,יצחק,גולדקנופ,יצחק גולדקנופ,Yitzhak,Goldknopf,Yitzhak Goldknopf,251,זכר,Male,יהדות התורה,United Torah Judaism,1101,ygoldknop@knesset.gov.il,True,1,1,0,1,0,0,0,0
+30916,עוז,חיים,עוז חיים,Oz,Haim,Oz Haim,251,זכר,Male,יש עתיד,Yesh Atid,1102,ohaim@knesset.gov.il,True,1,1,0,1,0,0,0,0
+30804,חיים,ביטון,חיים ביטון,Haim,Biton,Haim Biton,251,זכר,Male,"ש""ס",Shas,1095,chbiton@knesset.gov.il,True,1,1,0,1,0,0,0,0
+30083,אלי,כהן,אלי כהן,Eli,Cohen,Eli Cohen,251,זכר,Male,הליכוד,Likud,1096,elic@knesset.gov.il,True,0,0,0,0,0,0,0,0
+30055,בצלאל,סמוטריץ',בצלאל סמוטריץ',Bezalel,Smotrich,Bezalel Smotrich,251,זכר,Male,הציונות הדתית,Religious Zionism,1097,bezalels@knesset.gov.il,True,0,0,0,0,0,0,0,0
+30058,מכלוף מיקי,זוהר,מכלוף מיקי זוהר,Miki,Zohar,Miki Zohar,251,זכר,Male,הליכוד,Likud,1096,mzohar@knesset.gov.il,True,0,22,22,0,0,0,0,0
+30077,יואב,גלנט,יואב גלנט,Yoav,Gallant,Yoav Gallant,251,זכר,Male,הליכוד,Likud,1096,,False,0,0,0,0,0,0,0,0
+30082,יפעת,שאשא ביטון,יפעת שאשא ביטון,Yifat,Shasha-Biton,Yifat Shasha-Biton,250,נקבה,Female,הימין הממלכתי,New Hope,1098,,False,0,1,1,0,0,0,0,0
+30857,עמיחי,אליהו,עמיחי אליהו,Amichai,Eliyahu,Amichai Eliyahu,251,זכר,Male,עוצמה יהודית,Otzma Yehudit,1097,abene@knesset.gov.il,True,0,0,0,0,0,0,0,0
+468,ישראל,כץ,ישראל כץ,Israel,Katz,Israel Katz,251,זכר,Male,הליכוד,Likud,1096,yiskatz@knesset.gov.il,True,0,0,0,0,0,0,0,0
+30700,ניר,ברקת,ניר ברקת,Nir,Barkat,Nir Barkat,251,זכר,Male,הליכוד,Likud,1096,nbarkat@knesset.gov.il,True,0,0,0,0,0,0,0,0
+30786,עמיחי,שיקלי,עמיחי שיקלי,Amichai,Shikli,Amichai Shikli,251,זכר,Male,הליכוד,Likud,1096,ashikly@knesset.gov.il,True,0,0,0,0,0,0,0,0
+30708,מאי,גולן,מאי גולן,May,Golan,May Golan,250,נקבה,Female,הליכוד,Likud,1096,mgolan@knesset.gov.il,True,0,10,10,0,0,0,0,0
+30847,יצחק שמעון,וסרלאוף,יצחק שמעון וסרלאוף,Yitzhak Shimon,Wasserlauf,Yitzhak Shimon Wasserlauf,251,זכר,Male,עוצמה יהודית,Otzma Yehudit,1097,yvaserlof@knesset.gov.il,True,0,2,2,0,0,0,0,0
+30717,אופיר,סופר,אופיר סופר,Ofir,Sofer,Ofir Sofer,251,זכר,Male,הציונות הדתית,Religious Zionism,1097,osofer@knesset.gov.il,True,0,0,0,0,0,0,0,0
+30718,עידית,סילמן,עידית סילמן,Idit,Silman,Idit Silman,250,נקבה,Female,הליכוד,Likud,1096,isilman@knesset.gov.il,True,0,0,0,0,0,0,0,0
+23551,אורית מלכה,סטרוק,אורית מלכה סטרוק,Orit,Strock,Orit Strock,250,נקבה,Female,הציונות הדתית,Religious Zionism,1097,ostruk@knesset.gov.il,True,0,0,0,0,0,0,0,0
+23601,יואל,רזבוזוב,יואל רזבוזוב,Yoel,Razvozov,Yoel Razvozov,251,זכר,Male,יש עתיד,Yesh Atid,1102,,False,0,1,1,0,0,0,0,0
+12959,מירי מרים,רגב,מירי מרים רגב,Miri,Regev,Miri Regev,250,נקבה,Female,הליכוד,Likud,1096,mregev@knesset.gov.il,True,0,0,0,0,0,0,0,0
+12951,יריב,לוין,יריב לוין,Yariv,Levin,Yariv Levin,251,זכר,Male,הליכוד,Likud,1096,ylevin@knesset.gov.il,True,0,0,0,0,0,0,0,0
+12937,אופיר,אקוניס,אופיר אקוניס,Ofir,Akunis,Ofir Akunis,251,זכר,Male,הליכוד,Likud,1096,,False,0,0,0,0,0,0,0,0
+4395,אבי,דיכטר,אבי דיכטר,Avi,Dichter,Avi Dichter,251,זכר,Male,הליכוד,Likud,1096,davraham@knesset.gov.il,True,0,0,0,0,0,0,0,0
+1027,גדעון,סער,גדעון סער,Gideon,Saar,Gideon Saar,251,זכר,Male,הימין הממלכתי,New Hope,1098,gsaar@knesset.gov.il,True,0,16,16,0,0,0,0,0
+1025,גילה,גמליאל,גילה גמליאל,Gila,Gamliel,Gila Gamliel,250,נקבה,Female,הליכוד,Likud,1096,ggamliel@knesset.gov.il,True,0,0,0,0,0,0,0,0
+965,בנימין,נתניהו,בנימין נתניהו,Benjamin,Netanyahu,Benjamin Netanyahu,251,זכר,Male,הליכוד,Likud,1096,bnetanyahu@knesset.gov.il,True,0,0,0,0,0,0,0,0
+556,חיים,כץ,חיים כץ,Haim,Katz,Haim Katz,251,זכר,Male,הליכוד,Likud,1096,hkatz@knesset.gov.il,True,0,0,0,0,0,0,0,0
+30704,שלמה,קרעי,שלמה קרעי,Shlomo,Karhi,Shlomo Karhi,251,זכר,Male,הליכוד,Likud,1096,shlomok@knesset.gov.il,True,0,4,4,0,0,0,0,0

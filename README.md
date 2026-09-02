@@ -2,7 +2,7 @@
 
 Legislative Effectiveness Scores (LES) for all 148 Members of the 25th Israeli Knesset
 (November 2022 - present). All data is sourced directly from the official Knesset API
-and scored using the methodology of Volden, Wiseman and Wittmer (2010).
+and scored using the methodology of Volden, Wiseman and Wittmer (2010) .
 
 ---
 
